@@ -165,7 +165,7 @@ $(function() {
               startAngle:270,
               strokeWidth:5,
                 hoverEvent:true,
-                hoverBorderColor:'#FBDF4A',
+                hoverBorderColor:'#237CB4',
                 hoverAnimate:false,
                 drawType:'round',
                 speedDraw:150,

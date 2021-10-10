@@ -15,9 +15,9 @@ a.active {
 
 .btn {
 	color: #ffffff;
-	background: #fbdf4a;
-	border: 1px solid #fbdf4a;
-	border-color: #fbdf4a;
+	background: #237CB4;
+	border: 1px solid #237CB4;
+	border-color: #237CB4;
 }
 .btn:hover {
 	color: #ffffff;
@@ -30,7 +30,7 @@ a.active {
 	background: #999999 !important;
 }
 .owl-dot.active {
-	background: #fbdf4a !important;
+	background: #237CB4 !important;
 }
 
 #preloader {
@@ -63,7 +63,7 @@ a.active {
 .heading-title-2 span,
 .sub-heading-2,
 .sub-page-banner ul li a:hover {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .heading-des,
 .sub-page-banner ul li a {
@@ -80,7 +80,7 @@ a.active {
 	color: #999999 !important;
 }
 .top-scroll {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .top-scroll:hover {
@@ -96,7 +96,7 @@ a.active {
 	color: #888888;
 }
 .menu ul li a:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 header.fixed {
 	background: #fff;
@@ -112,7 +112,7 @@ header.fixed .menu-toggle span:after {
 .menu-toggle span,
 .menu-toggle span:before,
 .menu-toggle span:after {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .menu-toggle.active span {
 	background: transparent;
@@ -123,7 +123,7 @@ header.fixed .menu-toggle span:after {
 	color: #111111;
 }
 .banner-heading span {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .banner-des {
 	color: #888888;
@@ -136,16 +136,16 @@ ul.check-list li p,
 	color: #111111;
 }
 ul.check-list li span {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 
 /*----- Feature Section -----*/
 .feature-title:hover {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .feature-box:hover path.hover {
-	fill: #fbdf4a;
+	fill: #237CB4;
 }
 
 /*----- Timeline Section -----*/
@@ -154,17 +154,17 @@ ul.check-list li span {
 	border-color: #c5c8cb;
 }
 .small-round {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 	background: #f2f8fe;
 }
 .v-row:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .small-round span {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .date-title {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .roadmap-detail-box {
 	color: #111111;
@@ -172,14 +172,14 @@ ul.check-list li span {
 
 /*----- Team Section -----*/
 .team-img {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 }
 .team-box:hover .team-img {
 	border-color: #999999;
 }
 .member-name,
 .team-box ul li a:hover {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .member-name:hover {
 	color: #111111;
@@ -214,7 +214,7 @@ ul.check-list li span {
 
 /*----- Blog Section -----*/
 .blog-date li:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .read-more:hover {
 	color: #111111;
@@ -225,7 +225,7 @@ ul.check-list li span {
 .blog-date li,
 .blog-title:hover,
 .read-more {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .ico-apps ul.check-list li p,
 .ico-apps-2 ul.check-list li p {
@@ -239,10 +239,10 @@ ul.check-list li span {
 }
 .Frequently-tabs li a.active,
 .qus-title {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .Frequently-tabs li a:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 
 /*----- Home Page Tow -----*/
@@ -254,7 +254,7 @@ ul.check-list li span {
 }
 .banner-heading-tow span,
 .coin-start {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .coin-counter {
 	background: #d7f8ff;
@@ -262,11 +262,11 @@ ul.check-list li span {
 .coins-counter-loop li:before,
 .coins-counter-loop li:after,
 .coins-progress span {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .coins-counter-loop li span {
 	background: #fff;
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .coins-progress {
 	background: #fff;
@@ -285,7 +285,7 @@ ul.check-list li span {
 .roadmap-part .v-row,
 .roadmap-part .h-border,
 .roadmap-des {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 }
 .roadmap-part .small-round {
 	background: #f2f8fe;
@@ -296,7 +296,7 @@ ul.check-list li span {
 	background: #fff;
 }
 .team-member-name {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .team-member-name a {
 	color: #fff;
@@ -329,7 +329,7 @@ ul.check-list li span {
 	background: #f2f8fe;
 }
 .faq-part-2 .Frequently-tabs li a.active {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .faq-part-2 .qus-des,
@@ -347,13 +347,13 @@ ul.check-list li span {
 	background: #999999;
 }
 .play-icon span {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 	background: #fff;
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .play-icon:hover span {
 	border-color: #fff;
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .work-part button.close {
@@ -365,7 +365,7 @@ ul.check-list li span {
 
 /*----- blog List Page -----*/
 .blog-search input {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 	color: #111111;
 }
 .blog-search input::-webkit-input-placeholder,
@@ -380,10 +380,10 @@ ul.check-list li span {
 }
 .blog-category,
 .blog-category ul li:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .blog-tags ul li a {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .blog-tags ul li a:hover {
@@ -394,7 +394,7 @@ ul.check-list li span {
 	border-color: #e2e2e2;
 }
 .blog-list-content ul li:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .blog-list-pagination ul li a {
 	background: #e2e2e2;
@@ -403,7 +403,7 @@ ul.check-list li span {
 .blog-list-pagination ul li a:hover,
 .blog-list-pagination ul li a.active,
 .blog-search-btn {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .blog-category .blog-cat-title,
@@ -425,16 +425,16 @@ ul.check-list li span {
 .blog-list-title:hover,
 .trending-news-date,
 .blog-list-content ul li {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 
 /*----- blog Detail Page -----*/
 .blog-detail-content ul li:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .blog-detail-content blockquote {
 	background: #f2f8fe;
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 	color: #111111;
 }
 .blog-detail-tag ul li a,
@@ -444,7 +444,7 @@ ul.check-list li span {
 }
 .blog-detail-tag ul li a:hover,
 .blog-detail-social ul li a:hover {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .blog-comment-post-singel {
@@ -454,7 +454,7 @@ ul.check-list li span {
 	color: #bebebe;
 }
 .comment-reply {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .comment-reply:hover {
@@ -463,7 +463,7 @@ ul.check-list li span {
 }
 .blog-detail-content ul li,
 .commenter {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .blog-detail-content h2,
 .blog-detail-tag span,
@@ -479,18 +479,18 @@ ul.check-list li span {
 }
 .roadmap-center-line:before,
 .roadmap-center-line:after {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .roadmap-animated {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .roadmap-small-round {
-	border-color: #fbdf4a;
+	border-color: #237CB4;
 	background: #fff;
 }
 .roadmap-small-round:before {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .roadmap-main .roadmap-detail-box {
 	background: #5d19db;
@@ -502,10 +502,10 @@ ul.check-list li span {
 
 /*----- Token Sale Page -----*/
 .information-token-head {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .token-sale-counter {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .token-sale-counter .coins-counter-loop li span {
 	background: transparent;
@@ -533,7 +533,7 @@ ul.check-list li span {
 	background: #fff;
 }
 .distribution-title {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .token-sale-counter .btn {
 	background: #7ce6fd;
@@ -545,7 +545,7 @@ ul.check-list li span {
 
 /*----- Contact Page -----*/
 .contact-detail li i {
-	background: #fbdf4a;
+	background: #237CB4;
 	color: #fff;
 }
 .contact-detail li {
@@ -562,12 +562,12 @@ ul.check-list li span {
 	color: #fff;
 }
 .footer-icon ul li a:hover {
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .footer-link ul li a:hover,
 .copyright ul li a:hover,
 .copyright p a {
-	color: #fbdf4a;
+	color: #237CB4;
 }
 .subscribe .form-control {
 	background: #fff;
@@ -580,7 +580,7 @@ ul.check-list li span {
 }
 .subscribe .submit {
 	color: #fff;
-	background: #fbdf4a;
+	background: #237CB4;
 }
 .subscribe .form-control::-webkit-input-placeholder,
 .subscribe .form-control::-moz-placeholder,
@@ -601,7 +601,7 @@ ul.check-list li span {
 	.mega-menu:hover:before,
 	.menu ul ul li.mega-menu:before,
 	.menu ul ul li:hover > a {
-		color: #fbdf4a;
+		color: #237CB4;
 	}
 	.menu ul ul li a {
 		border-color: rgba(136, 136, 136, 0.3) !important;
@@ -611,12 +611,12 @@ ul.check-list li span {
 		background: #fff;
 	}
 	.menu ul ul li a:before {
-		background: #fbdf4a;
+		background: #237CB4;
 	}
 }
 @media (max-width: 991px) {
 	.menu {
-		background: #fbdf4a;
+		background: #237CB4;
 	}
 	.menu ul li a {
 		color: #fff;
@@ -627,7 +627,7 @@ ul.check-list li span {
 	header.fixed .menu-toggle span,
 	header.fixed .menu-toggle span:before,
 	header.fixed .menu-toggle span:after {
-		background: #fbdf4a;
+		background: #237CB4;
 	}
 	header.fixed .menu-toggle.active span {
 		background: transparent;

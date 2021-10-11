@@ -632,6 +632,11 @@ ul.check-list li p {
 
 .work-box img {
     position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /* margin-bottom: 223px; */
+    width: 100%;
 }
 
 .rotation-img {
@@ -2378,6 +2383,19 @@ _______________________________________________________*/
     border-radius: 5px;
 }
 
+section#about {
+    height: auto;
+}
+
+section#about h2 {
+    margin-top: 0px;
+    padding-top: 53px;
+}
+
+section#about .work-box {
+    margin: 0 auto;
+    text-align: center;
+}
 .blog-detail-tag-social {
     padding-bottom: 50px;
     margin-bottom: 50px;
@@ -2911,6 +2929,15 @@ footer.bg-pattern {
 
 .copyright ul li:last-child {
     padding-right: 0;
+}
+
+.banner-contain p {
+    font-size: 14px;
+    line-height: 23px;
+    /* font-weight: bold; */
+    color: #237CB4;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
 }
 
 .copyright ul li:before {
